@@ -10,6 +10,7 @@ int[] numbers = new int[360];
 groupelenum = 360/ groupnum;
 
 int[] group = new int[groupelenum];
+
 Random random = new Random();
 
 int a = 0;
